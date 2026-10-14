@@ -58,6 +58,6 @@ android {
 
     dependencies {
         testImplementation("junit:junit:4.13.2")
-        testImplementation("org.mockito:mockito-core:5.23.0")
+        testImplementation("org.mockito:mockito-core:5.24.0")
     }
 }
