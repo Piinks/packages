@@ -46,7 +46,7 @@ android {
     }
 
     dependencies {
-        implementation("androidx.annotation:annotation:1.10.0")
+        implementation("androidx.annotation:annotation:1.11.0")
         implementation("androidx.core:core-ktx:1.18.0")
         implementation("com.google.ads.interactivemedia.v3:interactivemedia:3.39.0")
         testImplementation("org.jetbrains.kotlin:kotlin-test-junit5:2.3.0")
