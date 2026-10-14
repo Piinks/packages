@@ -85,7 +85,7 @@ android {
 }
 
 dependencies {
-    implementation("androidx.annotation:annotation:1.10.0")
+    implementation("androidx.annotation:annotation:1.11.0")
     implementation("com.android.billingclient:billing:8.0.0")
     testImplementation("junit:junit:4.13.2")
     testImplementation("org.json:json:20251224")
